@@ -1,3 +1,3 @@
 # rent_a
 
-A new Flutter project.
+A Flutter project.
